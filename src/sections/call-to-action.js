@@ -1,12 +1,12 @@
 import React from 'react';
 import { Box, Container, Heading, Text, Link } from 'theme-ui';
 const CALL_TO_ACTION_DATA = {
-  title: 'Want to talk to our Support team?',
+  title: 'Want to talk to our Team?',
   text:
     'Discover how team can help you power-up your influencer photo marketing program.',
   button: {
     link: '#',
-    label: 'Ask you Question',
+    label: 'Ask your Question',
   },
 };
 const CallToAction = () => {
